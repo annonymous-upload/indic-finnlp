@@ -1,2 +1,1 @@
-# indic-finnlp
-Indic FinNLP resources
+# Resources
