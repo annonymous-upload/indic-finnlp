@@ -12,3 +12,24 @@
 | language       | indic language in which the text is present (hindi/bengali/telugu) | bengali                       |
 | magnitude      | magnitude of the number                                            | 1                             |
 
+
+
+**Task-2 Metadata** <br>
+------------------- <br>
+| column name    | explanation                      | example                                                         |
+|----------------|----------------------------------|-----------------------------------------------------------------|
+| sentence_indic | financial text in indic language | 2019 में, हवाई यात्रा हमारे अपने  कार्बन फुटप्रिंट का लगभग 38 प्रतिशत थी। |
+| label          | sustainable or unsustainable     | unsustainable                                                   |
+| language       | indic language                   | hindi                                                           |
+
+
+
+**Task-3 Metadata** <br>
+------------------- <br>
+| column name      | explanation                  | example                                                                                 |
+|------------------|------------------------------|-----------------------------------------------------------------------------------------|
+|        URL       | url of the news title        | https://www.esgtoday.com/abn-amro-to-align-lending-investment-portfolios-with-net-zero/ |
+| news_title_indic | news title in indic language | రుణాలను సమలేఖనం చేయడానికి, నికర సున్నాతో  పెట్టుబడి దస్త్రాలను సమలేఖనం చేయడానికి ABN AMRO                    |
+| ESG_Theme        | ESG theme of the news title  | climate change                                                                          |
+| language         | indic language               | telugu                                                                                  |
+
